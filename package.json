@@ -20,6 +20,7 @@
     "@strapi/provider-upload-cloudinary": "^4.1.11",
     "@strapi/strapi": "4.1.11",
     "better-sqlite3": "7.4.6",
+    "strapi-plugin-local-image-sharp": "^1.0.2",
     "strapi-provider-upload-cloudinary": "^3.6.10",
     "vue-router": "^4.0.15"
   },

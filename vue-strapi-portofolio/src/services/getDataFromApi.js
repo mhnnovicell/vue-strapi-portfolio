@@ -6,7 +6,7 @@ export default {
       let response = await axios.get(
         "http://localhost:1337/api/homes?populate=*"
       );
-      data = response.data;
+      data = response.data.data;
     } catch (error) {
       console.log(error);
     }
